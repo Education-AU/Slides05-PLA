@@ -17,6 +17,6 @@ follows a $\chi^2$ distribution with $n-p$ degrees of freedom.
 
 </div>
 
-From the distributions of these estimators, we can construct various statistical test statistics.
+From the distributions of these estimators, we can construct various test statistics.
 
 

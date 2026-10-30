@@ -3,9 +3,11 @@ title: F-Test Model Comparison Example
 template: default
 ---
 
+An F-test compares two nested models to determine:
 
-We test whether the restrictions imposed by a **restricted** model are compatible with the data, relative to a
-**larger** model that contains the restricted model as a special case.
+Whether the restrictions imposed on the simpler model lead to a
+statistically significant loss of explanatory power compared with the more general model.
+
 As a first example, consider the following hypotheses:
 
 <div class="h3-blue">

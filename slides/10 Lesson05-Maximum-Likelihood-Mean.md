@@ -13,4 +13,4 @@ $$
 Assuming that $\mu$ lies in a subspace $W \subset \mathbb{R}^n$, this minimization becomes a standard least squares
 problem, as discussed previously.
 
-We will specify the structure of this subspace in the applications section.
+We will specify the actual subspace in the applications section.

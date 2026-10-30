@@ -16,7 +16,7 @@ Assume two **nested** hypotheses:
 $$
 H_R \subset H_F
 $$
-with design matrices $D_R$ and $D_F$, and dimensions $p_R < p_F$, such that
+with design matrices $D_R$(Restricted model) and $D_F$(Full model), and dimensions $p_R < p_F$, such that
 
 $$
 \operatorname{span}(D_R) \subset \operatorname{span}(D_F)

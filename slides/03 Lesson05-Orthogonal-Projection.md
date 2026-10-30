@@ -12,6 +12,6 @@ Let $W \subset V$ be a subspace with $\dim(W) = k < n$.
 
 <div class="center">
 
-<img src="./assets/Projection_2.png" alt="General Orthogonal Projection" width="30%">
+<img src="./assets/Projection_2.png" alt="General Orthogonal Projection" width="70%">
 
 </div>

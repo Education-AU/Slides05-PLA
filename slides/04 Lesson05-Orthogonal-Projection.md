@@ -15,7 +15,7 @@ $$
 We saw in a previous lesson that we could formulate this problem in a matrix setting.
 
 Let $W=\operatorname{span}(\{\mathbf{b}_1,\dots,\mathbf{b}_k\})$.
-Fix a basis for $V$ and express the vectors $\mathbf{b}_1,\dots,\mathbf{b}_k$ in this basis to form the matrix
+Fix a basis, usually the standard basis, for $V$ and express the vectors $\mathbf{b}_1,\dots,\mathbf{b}_k$ in this basis to form the matrix
 $$
 A=
 \begin{bmatrix}
@@ -26,3 +26,4 @@ b_{n1} & b_{n2} & \cdots & b_{nk}
 \end{bmatrix}
 $$
 
+where the colums are coordinates of basis vectors of the subspace $W$ in the fixed basis.

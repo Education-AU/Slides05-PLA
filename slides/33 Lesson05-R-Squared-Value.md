@@ -3,7 +3,7 @@ title: R², Measure of Model Fit
 template: default
 ---
 
-$R^2$ is a simple measure of how well the model explains the variation in the data.  
+$R^2$ is a simple measure of how well a model $D$ explains the variation in the data.  
 It is not a formal test statistic, but it is closely related to the $F$-test.
 
 It is defined as:
